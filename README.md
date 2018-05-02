@@ -9,6 +9,10 @@ Using:
 
 --python3.5
 
+--caffe
+
+--Tensorflow
+
 --VGG_ILSVRC_19   
 
   [in preprocessing and CNN_util.py]  	http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_19_layers.caffemodel
