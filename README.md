@@ -1,9 +1,9 @@
-#Source:
+# Source:
 
   https://github.com/jazzsaxmafia/video_to_sequence
 
 
-#Using:
+# Using:
 
 --Anaconda conda created an environment "activate caffe" to import caffe
 
@@ -23,7 +23,7 @@
 
 
 
-#modified:
+# Modified:
 
   [in preprocessing.py:]  cropped_frame_list = np.array(list(map(lambda x: preprocess_frame(x), frame_list)))
 
