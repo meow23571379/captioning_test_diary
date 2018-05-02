@@ -5,15 +5,17 @@ Source:
 
 Using:
 
+--Anaconda conda created an environment "activate caffe" to import caffe
+
 --python3.5
 
---VGG_ILSVRC_19   [in preprocessing and CNN_util.py]
+--VGG_ILSVRC_19   
 
-  http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_19_layers.caffemodel
+  [in preprocessing and CNN_util.py]  	http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_19_layers.caffemodel
   
---vgg16    [in model.py]
+--vgg16    
 
-  https://github.com/ry/tensorflow-vgg16 (vgg16-20160129.tfmodel.torrent)
+  [in model.py]		https://github.com/ry/tensorflow-vgg16 (vgg16-20160129.tfmodel.torrent)
 
 
 
