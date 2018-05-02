@@ -27,4 +27,4 @@
 
   [in preprocessing.py:]  cropped_frame_list = np.array(list(map(lambda x: preprocess_frame(x), frame_list)))
 
-
+  [in model.py]   from tensorflow.python.ops import rnn_cell
